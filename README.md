@@ -1,8 +1,8 @@
-# ⚗️ ConceptLab
+# ⚗️ Supernova
 
 > **Ask anything. Learn at your level.**
 
-ConceptLab is an AI-powered learning web app that explains any concept in a way that matches *your* level — from Middle School all the way to Postgraduate. Built as a first serious GitHub project by a 10th-grade student.
+Supernova is an AI-powered learning web app that explains any concept in a way that matches *your* level — from Middle School all the way to Postgraduate. Built as a first serious GitHub project by a 10th-grade student.
 
 ---
 
